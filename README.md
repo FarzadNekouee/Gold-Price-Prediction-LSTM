@@ -44,6 +44,6 @@ Access the dataset on Kaggle [here](https://www.kaggle.com/datasets/farzadnekoue
 3. Execute all cells in the notebook.
 
 ## 🔗 Additional Resources
-- **Kaggle Dataset**: Access the complete dataset and delve deeper into its intricacies [here](https://www.kaggle.com/datasets/farzadnekouei/gold-price-10-years-20132023).
+- **Kaggle Notebook**: Interested in a Kaggle environment? Check out the notebook [here](https://www.kaggle.com/code/farzadnekouei/gold-price-prediction-lstm-96-accuracy).
 - **LinkedIn**: [Farzad Nekouei's Profile](https://www.linkedin.com/in/farzad-nekouei-7535aa53/)
 
